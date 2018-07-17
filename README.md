@@ -9,5 +9,5 @@ Xcode Version 9.1
 
 
 ## Demo
-![](https://cdn-images-1.medium.com/max/1600/1*BYkL7OFytrUH6rbi5Wz4Bw.gif)
+![Demo App](https://github.com/tayathorn/ios-swift-segue/blob/master/demo.gif)
 
